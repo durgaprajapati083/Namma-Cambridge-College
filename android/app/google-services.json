@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476728969523",
+    "project_id": "namma-cambridge",
+    "storage_bucket": "namma-cambridge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476728969523:android:4e972128e15228d342d646",
+        "android_client_info": {
+          "package_name": "com.durgaprajapati.namma_cambridge"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV110JsfeW9CxqSfKiDouRk8FhBb3UIEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

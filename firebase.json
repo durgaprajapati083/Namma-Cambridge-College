@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "namma-cambridge",
+          "appId": "1:476728969523:android:4e972128e15228d342d646",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "namma-cambridge",
+          "configurations": {
+            "android": "1:476728969523:android:4e972128e15228d342d646",
+            "ios": "1:476728969523:ios:eb685b8d7533cdd642d646",
+            "macos": "1:476728969523:ios:eb685b8d7533cdd642d646",
+            "web": "1:476728969523:web:6231d8065141a09542d646",
+            "windows": "1:476728969523:web:c23c650929f9e86b42d646"
+          }
+        }
+      }
+    }
+  }
+}
