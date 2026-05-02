@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # namma_cambridge
 
 cambrian openhouse, innov8ors
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Namma-Cambridge-College
+this is for Cambridge Institute of Technology
+>>>>>>> 1ca8940fd0d465a1897040748fea7c2b7818ae51
