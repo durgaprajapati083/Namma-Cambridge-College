@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 🚀 About the Project
 Namma Cambridge is a cross-platform mobile solution designed to unify the digital experience across the various campuses of the Cambridge Group of Institutions, Bengaluru. The app serves as a central hub for academic resources, campus selection, and institutional updates.
 
@@ -29,4 +29,3 @@ Security: SMTP-based OTP Verification (Email-OTP)
 Pro-Tip for GitHub:
 Don't forget to add Topics to your repository so others can find it. I recommend adding these:
 flutter, dart, firebase-auth, educational-app, otp-verification, namma-cambridge
->>>>>>> 1ca8940fd0d465a1897040748fea7c2b7818ae51
