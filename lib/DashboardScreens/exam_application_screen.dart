@@ -12,7 +12,11 @@ class _ExamApplicationScreenState extends State<ExamApplicationScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Exam Application"),
+        title: Text("Exam Application........................................
+                    ksjdowwwfniieoh 
+                    sjdjofih
+                    kdjsaofeffjdifoeirhw
+                    oeuoww"),
       ),
     );
   }
