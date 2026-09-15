@@ -12,7 +12,12 @@ class _InternshipProjectScreenState extends State<InternshipProjectScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Internship/Project Screen"),
+        title: Text("Internship/Project Screen
+                    skdfsa
+                    kdfjoi3922
+                    223923rr2
+                    ureo
+                    "),
       ),
     );
   }
